@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Taller3_ximena</string>
+    <string name="tv_1">10:49</string>
+    <string name="tv_2">Sabado</string>
+    <string name="tv_3">29 Agosto 2017</string>
+    <string name="tv_4">2</string>
+    <string name="tv_5">Llamadas</string>
+    <string name="tv_6">4</string>
+    <string name="tv_7">Mensajes</string>
+    <string name="tv_8">48</string>
+    <string name="tv_9">Notificaciones</string>
+    <string name="tv_10">Estado de la bateria: 91%</string>
+    <string name="str_1">Opcion 1</string>
+    <string name="str_2">Opcion 2</string>
+</resources>
